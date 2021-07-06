@@ -1,3 +1,2 @@
-**Trajectory**
-مسیرواره
+**Trajectory**    مسیرواره
 
