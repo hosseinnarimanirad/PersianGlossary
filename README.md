@@ -61,6 +61,8 @@ English | Persian | Ref | Link
 --- | --- | ---  | --- 
 Bias | سوگیری | 
 Survivorship bias  | سوگیری بقا | 
+Entrepreneur In Residence | کارآفرین مدعو/مهمان | نیما نامداری | [وب](https://www.linkedin.com/posts/nima-namdari_entrepreneur-in-residence-javane-careers-activity-6890986849976819712-9j9q)
+
 
 ## Finance
 
