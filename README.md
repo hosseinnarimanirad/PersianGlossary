@@ -1,72 +1,67 @@
-# PersianGlossary
-Persian Glossary
+<div dir="rtl">
  
-## ML
+# معادل‌های فارسی
+ 
+ 
+## عمومی
 
+فارسی | انگلیسی | استفاده‌کننده | لینک/مرجع
+--- | :-- | --- | --- 
+ترجمان | Synonym |  
+شیوه‌نامه؛ روش‌گان |Methodology |
+طرح‌مایه |Concept |
+طرح اولیه |Sketch |
+طرح‌واره | Pattern | نیماقاضی | [وب](https://www.linkedin.com/posts/nimaghazi_aevaexaep-aewaebahyaesaev-aetaehaeuahy-activity-6889130888496500737-sZAN/) 
+اندازه‌گیری  | Measurement‌ | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
+قاعده | Rule | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی 
+آزمون | Test | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
+آزمودن | Testing | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
+عملکرد؛ کارایی | Performance | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
+سنجش | Assessment | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی 
+ارزشیابی | Evaluation | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی 
+ارزش | Value | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
+داوری ارزش | Value Judgement | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
+ارزشیابی پیشرفت | Achievement evaluation | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
+سوگیری | Bias | 
+سوگیری بقا | Survivorship bias  | 
+کارآفرین مدعو/مهمان | Entrepreneur In Residence | نیما نامداری | [وب](https://www.linkedin.com/posts/nima-namdari_entrepreneur-in-residence-javane-careers-activity-6890986849976819712-9j9q)
 
-English | Persian | Ref | Link
---- | --- | --- | --- 
-Random forest | جنگل تصادفی |
-Outlier | ناهنجاری |
-Feature | ویژگی |
-Feature space | فضای ویژگی |
+## برنامه‌نویسی
 
-
-
-## General
-
-English | Persian | Ref | Link
---- | --- | ---  | --- 
-Synonym | ترجمان | 
-Methodology | شیوه‌نامه؛ روش‌گان |
-Concept | طرح‌مایه |
-Sketch | طرح اولیه |
-Pattern | طرح‌واره | نیماقاضی | [وب](https://www.linkedin.com/posts/nimaghazi_aevaexaep-aewaebahyaesaev-aetaehaeuahy-activity-6889130888496500737-sZAN/) |
-Measurement‌ | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
-Rule | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی 
-Test | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
-Testing | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
-Performance | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
-Assessment | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی 
-Evaluation | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی 
-Value | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
-Value Judgement | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی
-Achievement evaluation | اندازه‌گیری | علی اکبر سیف | کتاب اندازه‌گیری، سنجش و ارزشیابی آموزشی 
-
-## Programming
-
-English | Persian | Ref | Link
---- | --- | ---  | --- 
-Synchronous | هم‌روند-هم‌گام | 
-Asynchronous | ناهم‌گام |
-Text | متن |
-Scrip | خط |
-Character | نویسه |
-Character Set | مجموعه نویسه |
-Glyph | شکل |
-Extension Method | متد الحاقی |
+فارسی | انگلیسی | استفاده‌کننده | لینک/مرجع
+--- | :-- | --- | --- 
+هم‌روند-هم‌گام | Synchronous        |
+ناهم‌گام      | Asynchronous       |
+متن          | Text               |
+خط           | Scrip |
+نویسه        | Character |
+مجموعه نویسه | Character Set | 
+شکل          |Glyph | 
+متد الحاقی   | Extension Method | 
 
 
 
-## GIS
+## سیستم اطلاعات مکانی
 
-English | Persian | Ref | Link
---- | --- | ---  | --- 
-Trajectory | مسیرواره | حسین نریمانی‌راد
+فارسی | انگلیسی | استفاده‌کننده | لینک/مرجع
+--- | :-- | --- | --- 
+مسیرواره | Trajectory | حسین نریمانی‌راد
 
-
-## Other
-
-English | Persian | Ref | Link
---- | --- | ---  | --- 
-Bias | سوگیری | 
-Survivorship bias  | سوگیری بقا | 
-Entrepreneur In Residence | کارآفرین مدعو/مهمان | نیما نامداری | [وب](https://www.linkedin.com/posts/nima-namdari_entrepreneur-in-residence-javane-careers-activity-6890986849976819712-9j9q)
+ ## یادگیری ماشین
 
 
-## Finance
+فارسی | انگلیسی | استفاده‌کننده | لینک/مرجع
+--- | :-- | --- | --- 
+جنگل تصادفی | Random forest |
+ناهنجاری | Outlier | 
+ویژگی | Feature | 
+فضای ویژگی | Feature space | 
 
-English | Persian | Ref | Link
---- | --- | ---  | --- 
-Direct Debit | برداشت خودکار | 
-Recurring Revenue  | درآمد تکرار شونده | 
+
+
+## مالی
+
+فارسی | انگلیسی | استفاده‌کننده | لینک/مرجع
+--- | :-- | --- | --- 
+ برداشت خودکار        | Direct Debit               |
+ درآمد تکرار شونده    | Recurring Revenue          |
