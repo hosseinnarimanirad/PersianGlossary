@@ -18,7 +18,7 @@ Feature space | فضای ویژگی |
 English | Persian | Ref | Link
 --- | --- | ---  | --- 
 Synonym | ترجمان | 
-Methodology | شیوه‌نامه؛ ترجمان |
+Methodology | شیوه‌نامه؛ روش‌گان |
 Concept | طرح‌مایه |
 Sketch | طرح اولیه |
 Pattern | طرح‌واره | نیماقاضی | [وب](https://www.linkedin.com/posts/nimaghazi_aevaexaep-aewaebahyaesaev-aetaehaeuahy-activity-6889130888496500737-sZAN/) |
