@@ -55,6 +55,7 @@
 هم‌روند-هم‌گام        | Synchronous               | 
 ناهم‌گام             | Asynchronous              |
 محک‌خورده            | Best Practice             | حسین نریمانی راد
+چندخدمتی            | Multitasking              | حسین نریمانی راد   
 متن                 | Text                      |
 خط                  | Scrip                     |
 نویسه               | Character                 |
