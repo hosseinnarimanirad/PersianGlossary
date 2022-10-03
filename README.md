@@ -55,6 +55,5 @@
 جنگل تصادفی         | Random forest             |
 ناهنجاری            | Outlier                   | 
 ویژگی               | Feature                   | 
-فضای ویژگی          | Feature space             | 
-
-
+فضای ویژگی          | Feature space             |
+شاخص گذاری          | Indexing                  | محمدمهدی نوروزی    | [لینک](https://www.linkedin.com/posts/muhammad-mahdi-norouzi_sql-server-performance-tuning-ugcPost-6901141670013071360-wnt6)
